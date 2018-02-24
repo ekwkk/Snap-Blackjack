@@ -1,9 +1,8 @@
 # Snap-Blackjack
 
-### Goal of the Game
+## Goal of the Game
 
 Drawing random cards from Ace (1) to Jack (11) by clicking on the Card image, the player is supposed to stop choosing cards (click on the stop sign) at or before 21. Or else, the player loses.
-___
 
 ## Instructions / How to Start with the given xml
 
